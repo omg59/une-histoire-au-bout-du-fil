@@ -18,7 +18,6 @@ int numberSpecified = -1;
 int pendingNumber = -1;
 RotaryDialer dialer = RotaryDialer(PIN_READY, PIN_PULSE);
 unsigned long digitTimeout = 0;
-
 bool isFirstPlaySinceHangUp = true;
 
 void setup() {
