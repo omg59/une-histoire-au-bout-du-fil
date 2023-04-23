@@ -41,7 +41,6 @@ bool RotaryDialer::changeStateIfDebounced(enum State newState) {
 }
 
 void RotaryDialer::completeDial() {
-
 	if (!changeStateIfDebounced(WAITING)) {
 		return;
 	}
