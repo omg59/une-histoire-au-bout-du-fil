@@ -48,3 +48,17 @@ Celle-ci est constituée d'un disque de 51mm de diamètre, et la police utilisé
 
 # Licence
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce projet est partagé sous la licence <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+## Manuel d'utilisation pour les enfants
+
+Chers enfants,
+
+Voici comment utiliser votre nouveau téléphone magique pour écouter des histoires fantastiques !
+
+Tout d'abord, décrochez le combiné du téléphone. C'est la partie que vous mettez près de votre oreille. Ensuite, regardez le cadran rond sur le téléphone, où vous verrez les chiffres de 0 à 9.
+
+Pour choisir une histoire, tournez le cadran en utilisant les chiffres. Placez votre doigt dans le trou devant le chiffre choisi, puis tournez le cadran jusqu'à la butée et relâchez-le. Par exemple, si vous voulez écouter l'histoire numéro 12, mettez votre doigt dans le trou du chiffre 1, tournez le cadran jusqu'à la butée et relâchez-le. Vous aurez ensuite 6 secondes pour faire de même avec le deuxième chiffre, dans cet exemple, le chiffre 2.
+
+Une fois que vous avez composé les chiffres de votre histoire préférée, mettez le combiné près de votre oreille et écoutez attentivement. L'histoire commencera à jouer ! N'oubliez pas que vous avez 6 secondes pour composer le deuxième chiffre après le premier. Si vous prenez plus de temps, le téléphone choisira l'histoire correspondant au premier chiffre seulement.
+
+Amusez-vous bien en écoutant vos histoires préférées avec votre téléphone magique !
