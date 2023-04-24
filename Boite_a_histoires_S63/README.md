@@ -39,7 +39,7 @@ On utilise ici deux bibliothèques non natives :
 - [*DFRobotDFPlayerMini*](https://github.com/DFRobot/DFRobotDFPlayerMini) (installable via le gestionnaire de bibliothèques)
 - [*RotaryDial*](https://github.com/markfickett/Rotary-Dial), (téléchargeable sur Github et installable au format ZIP)
 
-Le [code source](./Boite_a_histoires_S63.ino) est abondamment commenté en français.
+Le [code source](./Boite_a_histoires_S63_minimal.ino) est abondamment commenté en français.
 
 # Etiquette du cadran
 Celle-ci est constituée d'un disque de 51mm de diamètre, et la police utilisée semble être du Univers Condensed Medium avec en 7.5pt un crénage de 46 (merci à [Jean-François Porchez](https://typofonderie.com) pour la suggestion de la police Univers)
